@@ -1,0 +1,20 @@
+{
+  "name": "pizaashop",
+  "version": "1.0.0",
+  "description": "this is real time handle food ordering ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dkyadav29/onlineFoodOrdering.git"
+  },
+  "author": "Dk yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dkyadav29/onlineFoodOrdering/issues"
+  },
+  "homepage": "https://github.com/Dkyadav29/onlineFoodOrdering#readme"
+}
